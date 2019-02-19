@@ -1,6 +1,6 @@
-Declaration of Ratification: Because I believe in fear, I choose trust. And because I believe in revolution, I choose ratification.
+"Declaration of Ratification: Because I believe in fear, I choose trust. And because I believe in revolution, I choose ratification." - J. Goldenfein, FP
 
-The Pattern
+# The Pattern
 
 The pattern is a way of experimenting with forms of governing. It is proposed in the spirit of experimentation, knowledge discovery, and fun. It also provides a symbolic entity for structuring certain types of group decision making. At heart, the pattern is a way of deciding what is important, and deciding how to decide what is important.
 
@@ -38,3 +38,4 @@ Tasks for the pattern:
 The current categories of the pattern:
 
 * Houses
+* Future Ball
