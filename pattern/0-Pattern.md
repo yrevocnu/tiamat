@@ -32,13 +32,16 @@
 ## Articles
 
 0. The constitutional category of the pattern is the house.
+
     0. All houses must agree by consensus on the categories of the pattern.
     1. The internal governance of the houses is not the concern of the pattern
     2. When a conflict is to be resolved or a norm is to be instituted a majority of houses will determine the outcome. Resolution of a conflict within a category of the pattern is binding. The recording and archiving of these norms and conflict resolutions should be referred to in subsequent discussions and decisions about norms and conflicts.
 
 1. The tasks for the pattern include:
+
     0. Choosing categories for the pattern.
 
 2. The categories of the pattern are:
+
     0. Houses
     1. Future Ball
