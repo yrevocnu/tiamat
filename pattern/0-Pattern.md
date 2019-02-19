@@ -1,4 +1,4 @@
-"Declaration of Ratification: Because I believe in fear, I choose trust. And because I believe in revolution, I choose ratification." - J. Goldenfein, FP
+> "Declaration of Ratification: Because I believe in fear, I choose trust. And because I believe in revolution, I choose ratification." - J. Goldenfein, FP
 
 # The Pattern
 
@@ -26,7 +26,7 @@
 
 10. The pattern regulates Yrevocnu by regulating itself. The pattern remains a closed system to avoid the push-pull, stimulus-response, command-control nature of rules and social structure. The pattern instead reinterprets itself in light of social needs and demands.
 
-11/ Rules or within the categories of the pattern must be clear and unambiguous - there is no intermediate normative validity. When a norm is created within a pattern category, it simultaneously forms social expectations. Social norms may be ambiguous. The social validity of a norm decided within the pattern may be intermediate or a matter of degree.
+11. Rules or within the categories of the pattern must be clear and unambiguous - there is no intermediate normative validity. When a norm is created within a pattern category, it simultaneously forms social expectations. Social norms may be ambiguous. The social validity of a norm decided within the pattern may be intermediate or a matter of degree.
 
 
 ## Articles
