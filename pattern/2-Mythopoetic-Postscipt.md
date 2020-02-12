@@ -2,6 +2,8 @@
 
 _A mythopoetic postscript to the Pattern of Yrevocnu._
 
+![](lighthouse-illustration.jpeg)
+
 I was on the radio with Trevor in Tower 2 when I heard the alarm that meant the light up top had burned out. Trevor and I were talking movement and its connection to the various component parts of our inner lives, like we did most nights when we caught overlapping shifts.
 
 My supervisor had a more relaxed style than Trevor’s; his was old-school, strict with the schedule, and never gave anyone special treatment. I would have quit the service long ago if my boss were anything like that, and after my accident and subsequent recovery, the last thing I wanted was another drill sergeant on my case.
